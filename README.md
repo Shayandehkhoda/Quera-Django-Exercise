@@ -1,0 +1,1 @@
+# Quera-Django-Exercise
